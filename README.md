@@ -1,4 +1,4 @@
-###Aprendiz de data analyst
+### Aprendiz de data analyst
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/mariajuliana22/mariajuliana22/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="800"/>
@@ -7,7 +7,7 @@
 <!--
 **mariajuliana22/mariajuliana22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-##👩🏼‍💻 Sobre mi:
+## 👩🏼‍💻 Sobre mi:
 
 🌱 Ingeniera ambiental en transición a analista de datos 📊
 
@@ -16,7 +16,7 @@
 👩🏼‍💻 Estudiante de análisis de datos en TripleTen.
 
 
-##🛠️ Lenguajes y herramientas:
+## 🛠️ Lenguajes y herramientas:
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,7 +28,7 @@
 </div>
 
   
-###📫 Quieres contactar conmigo?
+### 📫 Quieres contactar conmigo?
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-juliana-ramirez-zuluaga/)
 
