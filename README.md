@@ -7,7 +7,7 @@
 <!--
 **mariajuliana22/mariajuliana22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## 👩🏼‍💻 Sobre mi:
+## 👱🏻‍♀️ Sobre mi:
 
 🌱 Ingeniera ambiental en transición a analista de datos 📊
 
