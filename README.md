@@ -25,9 +25,11 @@
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </a>
-   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pandas"/>
-  </a>
 </div>
+
+- Librerías: Pandas, NumPy, Matplotlib, Seaborn
+- Herramientas: Jupyter Notebook, Git
+- Análisis: Estadística, Visualización de Datos
 
   
 ### 📫 Quieres contactar conmigo?
