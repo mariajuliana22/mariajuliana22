@@ -27,7 +27,7 @@
   </a>
 </div>
 
-- Librerías: Pandas, NumPy, Matplotlib, Seaborn, Scipy
+- Librerías: Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math
 - Herramientas: Jupyter Notebook, Git
 - Análisis: Estadística, Visualización de Datos
 
