@@ -1,7 +1,7 @@
 ### Aprendiz de data analyst
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/mariajuliana22/mariajuliana22/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/mariajuliana22/mariajuliana22/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner-4.png" width="800"/>
 </div>
 
 <!--
