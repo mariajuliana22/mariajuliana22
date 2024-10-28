@@ -1,39 +1,52 @@
-### Aprendiz de data analyst
+# 👩🏻‍💻 Aprendiz de Data Analyst / Aspiring Data Analyst
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/mariajuliana22/mariajuliana22/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner-4.png" width="800"/>
+  <img decoding="async" src="tu_imagen_banner.png" width="800"/>
 </div>
 
-<!--
-**mariajuliana22/mariajuliana22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## 🌟 Sobre mí / About Me
+Apasionada por transformar datos en insights útiles, busco contribuir a proyectos innovadores donde pueda aplicar mis habilidades en análisis de datos y seguir aprendiendo.  
+Passionate about transforming data into useful insights, I aim to contribute to innovative projects where I can apply my data analysis skills and continue learning.
 
-## 👱🏻‍♀️ Sobre mi:
+🌱 Ingeniera ambiental en transición a analista de datos. / Environmental engineer transitioning to data analyst 📊  
+🧵 Actualmente trabajando en el departamento de procesos en el sector textil. / Currently working in the processes department in the textile sector.  
+👩🏼‍💻 Estudiante de análisis de datos en TripleTen. / Data analysis student at TripleTen.
 
-🌱 Ingeniera ambiental en transición a analista de datos 📊
-
-🧵 Actualmente estoy trabajando en el departamento de procesos en una empresa del sector textil.
-
-👩🏼‍💻 Estudiante de análisis de datos en TripleTen.
-
-
-## 🛠️ Lenguajes y herramientas:
-
+## 🛠️ Habilidades Técnicas / Technical Skills
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  </a>
+    <img decoding="async" src="..." alt="Python"/>
+    <img decoding="async" src="..." alt="SQL"/>
+    <img decoding="async" src="..." alt="Excel"/>
 </div>
 
-- Librerías: Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math, Sqlalchemy, Dash
-- Herramientas: Jupyter Notebook, Git, Tableau
-- Análisis: Estadística, Visualización de Datos
+- **Librerías / Libraries**:
+  - **Pandas**: Manipulación y análisis de datos. / Data manipulation and analysis.
+  - **NumPy**: Cálculos numéricos y operaciones con matrices. / Numerical calculations and matrix operations.
+  - **Matplotlib y Seaborn**: Visualización de datos y gráficos estadísticos. / Data visualization and statistical graphics.
+  - **Scipy**: Cálculos científicos y técnicos. / Scientific and technical calculations.
+  - **Sqlalchemy**: Interacción con bases de datos SQL. / Interaction with SQL databases.
+  - **Dash**: Creación de aplicaciones web interactivas. / Creation of interactive web applications.
+  - **Sklearn**: Aprendizaje automático y modelado predictivo. / Machine learning and predictive modeling.
 
-  
-### 📫 Quieres contactar conmigo?
+- **Herramientas / Tools**:
+  - **Jupyter Notebook**: Análisis exploratorio y desarrollo de prototipos. / Exploratory analysis and prototype development.
+  - **Git**: Control de versiones y colaboración en proyectos. / Version control and project collaboration.
+  - **Tableau**: Creación de dashboards y visualizaciones avanzadas. / Creation of dashboards and advanced visualizations.
 
+- **Análisis / Analysis**:
+  - **Estadística**: Métodos descriptivos e inferenciales, pruebas de hipótesis. / **Statistics**: Descriptive and inferential methods, hypothesis testing.
+  - **Visualización de Datos**: Diseño de gráficos claros, creación de dashboards interactivos. / **Data Visualization**: Designing clear graphics, creating interactive dashboards.
+  - **Análisis Predictivo**: Modelado de regresión, análisis de series temporales. / **Predictive Analysis**: Regression modeling, time series analysis.
+
+## 🎓 Certificaciones / Certifications
+- Análisis de Datos - TripleTen / Data Analysis - TripleTen
+
+## 🤝 Habilidades Interpersonales / Interpersonal Skills
+- Comunicación efectiva / Effective communication
+- Trabajo en equipo / Teamwork
+- Pensamiento Crítico / Critical thinking
+- Adaptabilidad / Adaptability
+- Gestión del Tiempo / Time management
+
+## 📫 ¿Quieres contactar conmigo? / Want to contact me?
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-juliana-ramirez-zuluaga/)
-
-
