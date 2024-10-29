@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Aprendiz de Data Analyst / Aspiring Data Analyst
 
 <div id="header" align="center">
-  <img decoding="async" src="Black & White Modern Minimalist Data Analyst LinkedIn Banner-4.png" width="800"/>
+  <img decoding="async" src="Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" width="800"/>
 </div>
 
 ## 🌟 Sobre mí / About Me
