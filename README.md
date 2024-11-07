@@ -36,9 +36,9 @@ Passionate about transforming data into useful insights, I aim to contribute to 
   - **Tableau**: Creación de dashboards y visualizaciones avanzadas / Creation of dashboards and advanced visualizations.
 
 - **Análisis / Analysis**:
-  - **Estadística**: Métodos descriptivos e inferenciales, pruebas de hipótesis / **Statistics**: Descriptive and inferential methods, hypothesis testing.
-  - **Visualización de Datos**: Diseño de gráficos claros, creación de dashboards interactivos / **Data Visualization**: Designing clear graphics, creating interactive dashboards.
-  - **Análisis Predictivo**: Modelado de regresión, análisis de series temporales / **Predictive Analysis**: Regression modeling, time series analysis.
+  - **Estadística / Statistics**: Métodos descriptivos e inferenciales, pruebas de hipótesis / Descriptive and inferential methods, hypothesis testing.
+  - **Visualización de Datos / Data Visualization**: Diseño de gráficos claros, creación de dashboards interactivos / Designing clear graphics, creating interactive dashboards.
+  - **Análisis Predictivo / Predictive Analysis**: Modelado de regresión, análisis de series temporales / Regression modeling, time series analysis.
 
 ## 🎓 Certificaciones / Certifications
 - Análisis de Datos - TripleTen / Data Analysis - TripleTen
