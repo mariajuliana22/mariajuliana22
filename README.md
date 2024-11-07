@@ -13,9 +13,12 @@ Passionate about transforming data into useful insights, I aim to contribute to 
 
 ## 🛠️ Habilidades Técnicas / Technical Skills
 <div id="header" align="left">
-    <img decoding="async" src="..." alt="Python"/>
-    <img decoding="async" src="..." alt="SQL"/>
-    <img decoding="async" src="..." alt="Excel"/>
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
 </div>
 
 - **Librerías / Libraries**:
