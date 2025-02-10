@@ -21,13 +21,29 @@ Apasionada por transformar datos en insights útiles, busco contribuir a proyect
 </div>
 
 - **Librerías / Libraries**:
-  - **Pandas**: Manipulación y análisis de datos / Data manipulation and analysis.
-  - **NumPy**: Cálculos numéricos y operaciones con matrices / Numerical calculations and matrix operations.
-  - **Matplotlib y Seaborn**: Visualización de datos y gráficos estadísticos / Data visualization and statistical graphics.
-  - **Scipy**: Cálculos científicos y técnicos / Scientific and technical calculations.
-  - **Sqlalchemy**: Interacción con bases de datos SQL / Interaction with SQL databases.
-  - **Dash**: Creación de aplicaciones web interactivas / Creation of interactive web applications.
-  - **Sklearn**: Aprendizaje automático y modelado predictivo / Machine learning and predictive modeling.
+  - **📌 Manipulación y análisis de datos / Data Manipulation & Analysis**
+    - `Pandas`: Manipulación y análisis de datos estructurados / Data manipulation and analysis of structured data.
+    - `NumPy`: Operaciones con matrices y cálculos numéricos / Matrix operations and numerical calculations.
+
+  - **🎨 Visualización de datos / Data Visualization**
+    - `Matplotlib`: Gráficos básicos y personalizables / Customizable basic plotting.
+    - `Seaborn`: Visualización estadística avanzada con estilo mejorado / Advanced statistical visualization with enhanced styling.
+
+  - **🧮 Cálculos matemáticos y científicos / Mathematical & Scientific Computation**
+    - `Math`: Funciones matemáticas estándar / Standard mathematical functions.
+    - `Scipy`: Métodos avanzados para cálculo científico y técnico / Advanced methods for scientific and technical computing.
+
+  - **🕒 Manejo de fechas y tiempos / Date & Time Handling**
+    - `Datetime`: Manipulación de fechas y tiempos en Python / Working with dates and times in Python.
+
+  - **🗄️ Bases de datos y almacenamiento / Databases & Storage**
+    - `SQLAlchemy`: Interacción con bases de datos SQL de manera eficiente / Efficient interaction with SQL databases. 
+
+  - **🤖 Aprendizaje automático y modelado predictivo / Machine Learning & Predictive Modeling**
+    - `Scikit-learn (Sklearn)`: Algoritmos de machine learning, regresión y clasificación / Machine learning algorithms, regression, and classification.
+
+  - **🌐 Aplicaciones web interactivas / Interactive Web Applications**
+    - `Dash`: Creación de dashboards y aplicaciones web basadas en datos / Building dashboards and data-driven web applications.
 
 - **Herramientas / Tools**:
   - **Jupyter Notebook**: Análisis exploratorio y desarrollo de prototipos / Exploratory analysis and prototype development.
