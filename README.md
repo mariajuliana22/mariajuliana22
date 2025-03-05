@@ -8,7 +8,7 @@
 Apasionada por transformar datos en insights útiles, busco contribuir a proyectos innovadores donde pueda aplicar mis habilidades en análisis de datos y seguir aprendiendo / Passionate about transforming data into useful insights, I aim to contribute to innovative projects where I can apply my data analysis skills and continue learning.
 
 🌱 Ingeniera ambiental en transición a analista de datos / Environmental engineer transitioning to data analyst 📊  
-👩🏼‍💻 Análisis de datos en TripleTen / Data analysis at TripleTen.
+👩🏼‍💻 Análisis de datos / Data analysis 
 
 ## 🛠️ Habilidades Técnicas / Technical Skills
 <div id="header" align="left">
